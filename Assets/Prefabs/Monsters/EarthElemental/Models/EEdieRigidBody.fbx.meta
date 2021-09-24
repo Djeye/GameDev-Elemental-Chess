@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 9956059b6405c87499a62ed88ebae42a
+timeCreated: 1434972824
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PezziEarthElemental
+    100004: PezziEarthElemental1
+    100006: PezziEarthElemental10
+    100008: PezziEarthElemental11
+    100010: PezziEarthElemental12
+    100012: PezziEarthElemental2
+    100014: PezziEarthElemental3
+    100016: PezziEarthElemental4
+    100018: PezziEarthElemental5
+    100020: PezziEarthElemental6
+    100022: PezziEarthElemental7
+    100024: PezziEarthElemental8
+    100026: PezziEarthElemental9
+    400000: //RootNode
+    400002: PezziEarthElemental
+    400004: PezziEarthElemental1
+    400006: PezziEarthElemental10
+    400008: PezziEarthElemental11
+    400010: PezziEarthElemental12
+    400012: PezziEarthElemental2
+    400014: PezziEarthElemental3
+    400016: PezziEarthElemental4
+    400018: PezziEarthElemental5
+    400020: PezziEarthElemental6
+    400022: PezziEarthElemental7
+    400024: PezziEarthElemental8
+    400026: PezziEarthElemental9
+    2300000: PezziEarthElemental
+    2300002: PezziEarthElemental1
+    2300004: PezziEarthElemental10
+    2300006: PezziEarthElemental11
+    2300008: PezziEarthElemental12
+    2300010: PezziEarthElemental2
+    2300012: PezziEarthElemental3
+    2300014: PezziEarthElemental4
+    2300016: PezziEarthElemental5
+    2300018: PezziEarthElemental6
+    2300020: PezziEarthElemental7
+    2300022: PezziEarthElemental8
+    2300024: PezziEarthElemental9
+    3300000: PezziEarthElemental
+    3300002: PezziEarthElemental1
+    3300004: PezziEarthElemental10
+    3300006: PezziEarthElemental11
+    3300008: PezziEarthElemental12
+    3300010: PezziEarthElemental2
+    3300012: PezziEarthElemental3
+    3300014: PezziEarthElemental4
+    3300016: PezziEarthElemental5
+    3300018: PezziEarthElemental6
+    3300020: PezziEarthElemental7
+    3300022: PezziEarthElemental8
+    3300024: PezziEarthElemental9
+    4300000: PezziEarthElemental
+    4300002: PezziEarthElemental1
+    4300004: PezziEarthElemental2
+    4300006: PezziEarthElemental3
+    4300008: PezziEarthElemental4
+    4300010: PezziEarthElemental5
+    4300012: PezziEarthElemental6
+    4300014: PezziEarthElemental7
+    4300016: PezziEarthElemental8
+    4300018: PezziEarthElemental9
+    4300020: PezziEarthElemental10
+    4300022: PezziEarthElemental11
+    4300024: PezziEarthElemental12
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
